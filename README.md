@@ -1,4 +1,4 @@
-# twistiid mersenne
+# twistid mersenne
 
 A rust implementation of the MT19937 version of the Mersenne Twister PRNG
 
